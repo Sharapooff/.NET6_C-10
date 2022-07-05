@@ -15,11 +15,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.5_HttpRequest(Получ�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.6_Отправка файлов(SendFileAsync())", "Отправка файлов(SendFileAsync())\1.6_Отправка файлов(SendFileAsync()).csproj", "{96F73C65-E67E-49A0-AB49-B06B63FFAA48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.7_Отправка форм( Form)", "Отправка форм( Form)\1.7_Отправка форм( Form).csproj", "{BE913446-6D94-4BA3-9C36-A7025C5A5B6B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.7_Отправка форм(Form)", "Отправка форм( Form)\1.7_Отправка форм(Form).csproj", "{BE913446-6D94-4BA3-9C36-A7025C5A5B6B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.8_Переадресация(Redirect())", "1.8_Переадресация(Redirect())\1.8_Переадресация(Redirect()).csproj", "{DCD91733-F8DF-4773-B5FD-8FDDC4E82004}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.9_Отправка и получение json", "1.9_Отправка и получение json\1.9_Отправка и получение json.csproj", "{AA7AC354-0C4C-408A-9CAA-A0D1EA59BF52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_10_Создание простейшего API", "1.10_Создание простейшего API\1_10_Создание простейшего API.csproj", "{73CF9B86-4B70-445F-81F5-EF2B5DAF39BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{AA7AC354-0C4C-408A-9CAA-A0D1EA59BF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA7AC354-0C4C-408A-9CAA-A0D1EA59BF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA7AC354-0C4C-408A-9CAA-A0D1EA59BF52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73CF9B86-4B70-445F-81F5-EF2B5DAF39BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73CF9B86-4B70-445F-81F5-EF2B5DAF39BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73CF9B86-4B70-445F-81F5-EF2B5DAF39BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73CF9B86-4B70-445F-81F5-EF2B5DAF39BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
