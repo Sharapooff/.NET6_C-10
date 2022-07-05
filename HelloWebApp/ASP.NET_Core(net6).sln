@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateRunWebApp", "HelloWeb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Конвейер обработки запроса и middleware", "Конвейер обработки запроса и middleware\Конвейер обработки запроса и middleware.csproj", "{2C9E61EB-59FB-4895-9C14-1EB8C0AD8112}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Метод Run и определение терминального middleware", "Метод Run и определение терминального middleware\Метод Run и определение терминального middleware.csproj", "{95771DD9-0993-443F-A558-A3F1640FA3E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2C9E61EB-59FB-4895-9C14-1EB8C0AD8112}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C9E61EB-59FB-4895-9C14-1EB8C0AD8112}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C9E61EB-59FB-4895-9C14-1EB8C0AD8112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95771DD9-0993-443F-A558-A3F1640FA3E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95771DD9-0993-443F-A558-A3F1640FA3E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95771DD9-0993-443F-A558-A3F1640FA3E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95771DD9-0993-443F-A558-A3F1640FA3E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
