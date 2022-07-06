@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_10_Создание пр�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_11_Загрузка файлов на сервер(IFormFile)", "1_11_Загрузка файлов на сервер(IFormFile)\1_11_Загрузка файлов на сервер(IFormFile).csproj", "{FB0A5BF7-A667-4B12-9F38-4E53E8F5E774}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_12_Метод расширения Use()", "Метод расширения Use()\1_12_Метод расширения Use().csproj", "{AAD376D5-6ABB-482F-8BA7-FB44DBBC25A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{FB0A5BF7-A667-4B12-9F38-4E53E8F5E774}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB0A5BF7-A667-4B12-9F38-4E53E8F5E774}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB0A5BF7-A667-4B12-9F38-4E53E8F5E774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAD376D5-6ABB-482F-8BA7-FB44DBBC25A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD376D5-6ABB-482F-8BA7-FB44DBBC25A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD376D5-6ABB-482F-8BA7-FB44DBBC25A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD376D5-6ABB-482F-8BA7-FB44DBBC25A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
