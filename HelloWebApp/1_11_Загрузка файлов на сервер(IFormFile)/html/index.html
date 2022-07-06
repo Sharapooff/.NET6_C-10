@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Загрузка файла на сервер</title>
+</head>
+<body>
+    <h2>Выберите файл для загрузки</h2>
+    <form action="upload" method="post" enctype="multipart/form-data">
+        <input type="file" name="uploads" /><br>
+        <input type="file" name="uploads" /><br>
+        <input type="file" name="uploads" /><br>
+        <input type="submit" value="Загрузить" />
+    </form>
+</body>
+</html>
+
+<!--В данном случае форма содержит набор элементов с типом file, через которые можно выбрать файлы для загрузки. В данном случае на форме три таких элемента, 
+но их может быть и меньше и больше. А благодаря установке атрибута формы enctype="multipart/form-data" браузер будет знать, что вместе с формой надо передать файлы.
+Отправляться файлы будут в запросе типа POST на адрес "/upload".-->

@@ -23,6 +23,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.9_Отправка и п�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_10_Создание простейшего API", "1.10_Создание простейшего API\1_10_Создание простейшего API.csproj", "{73CF9B86-4B70-445F-81F5-EF2B5DAF39BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_11_Загрузка файлов на сервер(IFormFile)", "1_11_Загрузка файлов на сервер(IFormFile)\1_11_Загрузка файлов на сервер(IFormFile).csproj", "{FB0A5BF7-A667-4B12-9F38-4E53E8F5E774}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_12_Метод расширения Use()", "Метод расширения Use()\1_12_Метод расширения Use().csproj", "{AAD376D5-6ABB-482F-8BA7-FB44DBBC25A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_13_Создание ветки конвейера. UseWhen и MapWhen", "1_13_Создание ветки конвейера. UseWhen и MapWhen\1_13_Создание ветки конвейера. UseWhen и MapWhen.csproj", "{A92B95E1-9269-4CDB-B224-4443C92D4BD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_14_Метод Map()", "1_14_Метод Map()\1_14_Метод Map().csproj", "{2C6A9DAA-B801-4E17-83D3-92E5D5CE5BB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_15_Классы middleware", "1_15_Классы middleware\1_15_Классы middleware.csproj", "{560E1BED-0DA8-4DA9-9FEE-AEB70316F936}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +79,26 @@ Global
 		{73CF9B86-4B70-445F-81F5-EF2B5DAF39BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73CF9B86-4B70-445F-81F5-EF2B5DAF39BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73CF9B86-4B70-445F-81F5-EF2B5DAF39BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB0A5BF7-A667-4B12-9F38-4E53E8F5E774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB0A5BF7-A667-4B12-9F38-4E53E8F5E774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB0A5BF7-A667-4B12-9F38-4E53E8F5E774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB0A5BF7-A667-4B12-9F38-4E53E8F5E774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAD376D5-6ABB-482F-8BA7-FB44DBBC25A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD376D5-6ABB-482F-8BA7-FB44DBBC25A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD376D5-6ABB-482F-8BA7-FB44DBBC25A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD376D5-6ABB-482F-8BA7-FB44DBBC25A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A92B95E1-9269-4CDB-B224-4443C92D4BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A92B95E1-9269-4CDB-B224-4443C92D4BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A92B95E1-9269-4CDB-B224-4443C92D4BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A92B95E1-9269-4CDB-B224-4443C92D4BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C6A9DAA-B801-4E17-83D3-92E5D5CE5BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6A9DAA-B801-4E17-83D3-92E5D5CE5BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C6A9DAA-B801-4E17-83D3-92E5D5CE5BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6A9DAA-B801-4E17-83D3-92E5D5CE5BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{560E1BED-0DA8-4DA9-9FEE-AEB70316F936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{560E1BED-0DA8-4DA9-9FEE-AEB70316F936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{560E1BED-0DA8-4DA9-9FEE-AEB70316F936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{560E1BED-0DA8-4DA9-9FEE-AEB70316F936}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
