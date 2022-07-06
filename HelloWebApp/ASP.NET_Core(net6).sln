@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_11_Загрузка фа�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_12_Метод расширения Use()", "Метод расширения Use()\1_12_Метод расширения Use().csproj", "{AAD376D5-6ABB-482F-8BA7-FB44DBBC25A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_13_Создание ветки конвейера. UseWhen и MapWhen", "1_13_Создание ветки конвейера. UseWhen и MapWhen\1_13_Создание ветки конвейера. UseWhen и MapWhen.csproj", "{A92B95E1-9269-4CDB-B224-4443C92D4BD8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{AAD376D5-6ABB-482F-8BA7-FB44DBBC25A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAD376D5-6ABB-482F-8BA7-FB44DBBC25A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAD376D5-6ABB-482F-8BA7-FB44DBBC25A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A92B95E1-9269-4CDB-B224-4443C92D4BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A92B95E1-9269-4CDB-B224-4443C92D4BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A92B95E1-9269-4CDB-B224-4443C92D4BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A92B95E1-9269-4CDB-B224-4443C92D4BD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

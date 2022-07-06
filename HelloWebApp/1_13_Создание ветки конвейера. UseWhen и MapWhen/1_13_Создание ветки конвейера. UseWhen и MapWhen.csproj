@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>_1_13_Создание_ветки_конвейера._UseWhen_и_MapWhen</RootNamespace>
+  </PropertyGroup>
+
+</Project>
