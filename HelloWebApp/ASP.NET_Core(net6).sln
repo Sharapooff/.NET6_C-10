@@ -39,6 +39,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_17_IWebHostEnvironment и
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1_Dependency Injection (Внедрение зависимостей и IServiceCollection)", "2.1_Dependency Injection (Внедрение зависимостей и IServiceCollection)\2.1_Dependency Injection (Внедрение зависимостей и IServiceCollection).csproj", "{FA58FD11-3BE3-4C69-8BF1-3D43921083A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2_(DI) Создание сервисов", "2.1_(DI) Создание сервисов\2.2_(DI) Создание сервисов.csproj", "{F8D802C8-8D5D-4927-9870-40E29039BDFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{FA58FD11-3BE3-4C69-8BF1-3D43921083A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA58FD11-3BE3-4C69-8BF1-3D43921083A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA58FD11-3BE3-4C69-8BF1-3D43921083A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8D802C8-8D5D-4927-9870-40E29039BDFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D802C8-8D5D-4927-9870-40E29039BDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8D802C8-8D5D-4927-9870-40E29039BDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8D802C8-8D5D-4927-9870-40E29039BDFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
