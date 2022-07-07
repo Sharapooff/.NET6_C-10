@@ -9,29 +9,37 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.2_Конвейер обр
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.3_Метод Run и определение терминального middleware", "Метод Run и определение терминального middleware\1.3_Метод Run и определение терминального middleware.csproj", "{95771DD9-0993-443F-A558-A3F1640FA3E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.4_HttpResponse(Отправка ответа)", "HttpResponse(Отправка ответа)\1.4_HttpResponse(Отправка ответа).csproj", "{84B26407-EE16-44B0-B98A-F4F321FB9067}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.4_HttpResponse(Отправка ответа)", "HttpResponse(Отправка ответа)\1.4_HttpResponse(Отправка ответа).csproj", "{84B26407-EE16-44B0-B98A-F4F321FB9067}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.5_HttpRequest(Получение данных запроса)", "1.5_HttpRequest(Получение данных запроса)\1.5_HttpRequest(Получение данных запроса).csproj", "{C5431338-95E1-4D61-ACE1-4DA96036F77F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.5_HttpRequest(Получение данных запроса)", "1.5_HttpRequest(Получение данных запроса)\1.5_HttpRequest(Получение данных запроса).csproj", "{C5431338-95E1-4D61-ACE1-4DA96036F77F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.6_Отправка файлов(SendFileAsync())", "Отправка файлов(SendFileAsync())\1.6_Отправка файлов(SendFileAsync()).csproj", "{96F73C65-E67E-49A0-AB49-B06B63FFAA48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.6_Отправка файлов(SendFileAsync())", "Отправка файлов(SendFileAsync())\1.6_Отправка файлов(SendFileAsync()).csproj", "{96F73C65-E67E-49A0-AB49-B06B63FFAA48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.7_Отправка форм(Form)", "Отправка форм( Form)\1.7_Отправка форм(Form).csproj", "{BE913446-6D94-4BA3-9C36-A7025C5A5B6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.7_Отправка форм(Form)", "Отправка форм( Form)\1.7_Отправка форм(Form).csproj", "{BE913446-6D94-4BA3-9C36-A7025C5A5B6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.8_Переадресация(Redirect())", "1.8_Переадресация(Redirect())\1.8_Переадресация(Redirect()).csproj", "{DCD91733-F8DF-4773-B5FD-8FDDC4E82004}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.8_Переадресация(Redirect())", "1.8_Переадресация(Redirect())\1.8_Переадресация(Redirect()).csproj", "{DCD91733-F8DF-4773-B5FD-8FDDC4E82004}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.9_Отправка и получение json", "1.9_Отправка и получение json\1.9_Отправка и получение json.csproj", "{AA7AC354-0C4C-408A-9CAA-A0D1EA59BF52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.9_Отправка и получение json", "1.9_Отправка и получение json\1.9_Отправка и получение json.csproj", "{AA7AC354-0C4C-408A-9CAA-A0D1EA59BF52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_10_Создание простейшего API", "1.10_Создание простейшего API\1_10_Создание простейшего API.csproj", "{73CF9B86-4B70-445F-81F5-EF2B5DAF39BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_10_Создание простейшего API", "1.10_Создание простейшего API\1_10_Создание простейшего API.csproj", "{73CF9B86-4B70-445F-81F5-EF2B5DAF39BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_11_Загрузка файлов на сервер(IFormFile)", "1_11_Загрузка файлов на сервер(IFormFile)\1_11_Загрузка файлов на сервер(IFormFile).csproj", "{FB0A5BF7-A667-4B12-9F38-4E53E8F5E774}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_11_Загрузка файлов на сервер(IFormFile)", "1_11_Загрузка файлов на сервер(IFormFile)\1_11_Загрузка файлов на сервер(IFormFile).csproj", "{FB0A5BF7-A667-4B12-9F38-4E53E8F5E774}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_12_Метод расширения Use()", "Метод расширения Use()\1_12_Метод расширения Use().csproj", "{AAD376D5-6ABB-482F-8BA7-FB44DBBC25A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_12_Метод расширения Use()", "Метод расширения Use()\1_12_Метод расширения Use().csproj", "{AAD376D5-6ABB-482F-8BA7-FB44DBBC25A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_13_Создание ветки конвейера. UseWhen и MapWhen", "1_13_Создание ветки конвейера. UseWhen и MapWhen\1_13_Создание ветки конвейера. UseWhen и MapWhen.csproj", "{A92B95E1-9269-4CDB-B224-4443C92D4BD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_13_Создание ветки конвейера. UseWhen и MapWhen", "1_13_Создание ветки конвейера. UseWhen и MapWhen\1_13_Создание ветки конвейера. UseWhen и MapWhen.csproj", "{A92B95E1-9269-4CDB-B224-4443C92D4BD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_14_Метод Map()", "1_14_Метод Map()\1_14_Метод Map().csproj", "{2C6A9DAA-B801-4E17-83D3-92E5D5CE5BB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_14_Метод Map()", "1_14_Метод Map()\1_14_Метод Map().csproj", "{2C6A9DAA-B801-4E17-83D3-92E5D5CE5BB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_15_Классы middleware", "1_15_Классы middleware\1_15_Классы middleware.csproj", "{560E1BED-0DA8-4DA9-9FEE-AEB70316F936}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_15_Классы middleware", "1_15_Классы middleware\1_15_Классы middleware.csproj", "{560E1BED-0DA8-4DA9-9FEE-AEB70316F936}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_16_Построение конвейера обработки запроса", "1_16_Построение конвейера обработки запроса\1_16_Построение конвейера обработки запроса.csproj", "{47ECA52B-C6D3-491C-B56F-71AAF4B4C865}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_17_IWebHostEnvironment и окружение", "1_17_IWebHostEnvironment и окружение\1_17_IWebHostEnvironment и окружение.csproj", "{8D013D46-65FB-4FA4-9E1F-309C9918F1AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1_Dependency Injection (Внедрение зависимостей и IServiceCollection)", "2.1_Dependency Injection (Внедрение зависимостей и IServiceCollection)\2.1_Dependency Injection (Внедрение зависимостей и IServiceCollection).csproj", "{FA58FD11-3BE3-4C69-8BF1-3D43921083A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2_(DI) Создание сервисов", "2.1_(DI) Создание сервисов\2.2_(DI) Создание сервисов.csproj", "{F8D802C8-8D5D-4927-9870-40E29039BDFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +107,22 @@ Global
 		{560E1BED-0DA8-4DA9-9FEE-AEB70316F936}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{560E1BED-0DA8-4DA9-9FEE-AEB70316F936}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{560E1BED-0DA8-4DA9-9FEE-AEB70316F936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47ECA52B-C6D3-491C-B56F-71AAF4B4C865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47ECA52B-C6D3-491C-B56F-71AAF4B4C865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47ECA52B-C6D3-491C-B56F-71AAF4B4C865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47ECA52B-C6D3-491C-B56F-71AAF4B4C865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D013D46-65FB-4FA4-9E1F-309C9918F1AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D013D46-65FB-4FA4-9E1F-309C9918F1AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D013D46-65FB-4FA4-9E1F-309C9918F1AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D013D46-65FB-4FA4-9E1F-309C9918F1AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA58FD11-3BE3-4C69-8BF1-3D43921083A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA58FD11-3BE3-4C69-8BF1-3D43921083A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA58FD11-3BE3-4C69-8BF1-3D43921083A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA58FD11-3BE3-4C69-8BF1-3D43921083A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8D802C8-8D5D-4927-9870-40E29039BDFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D802C8-8D5D-4927-9870-40E29039BDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8D802C8-8D5D-4927-9870-40E29039BDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8D802C8-8D5D-4927-9870-40E29039BDFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
