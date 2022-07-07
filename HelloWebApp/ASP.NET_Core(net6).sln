@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_14_Метод Map()", "1_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_15_Классы middleware", "1_15_Классы middleware\1_15_Классы middleware.csproj", "{560E1BED-0DA8-4DA9-9FEE-AEB70316F936}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_16_Построение конвейера обработки запроса", "1_16_Построение конвейера обработки запроса\1_16_Построение конвейера обработки запроса.csproj", "{47ECA52B-C6D3-491C-B56F-71AAF4B4C865}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{560E1BED-0DA8-4DA9-9FEE-AEB70316F936}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{560E1BED-0DA8-4DA9-9FEE-AEB70316F936}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{560E1BED-0DA8-4DA9-9FEE-AEB70316F936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47ECA52B-C6D3-491C-B56F-71AAF4B4C865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47ECA52B-C6D3-491C-B56F-71AAF4B4C865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47ECA52B-C6D3-491C-B56F-71AAF4B4C865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47ECA52B-C6D3-491C-B56F-71AAF4B4C865}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
