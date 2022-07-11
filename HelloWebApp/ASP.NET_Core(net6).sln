@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.4_(DI) Жизненный
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.5_(DI) Применение сервисов в классах middleware", "2.5_(DI) Применение сервисов в классах middleware\2.5_(DI) Применение сервисов в классах middleware.csproj", "{CEB67859-3073-4FBC-A145-B2B40C712818}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.6_(DI) Scoped-сервисы в singleton-объектах", "2.6_(DI) Scoped-сервисы в singleton-объектах\2.6_(DI) Scoped-сервисы в singleton-объектах.csproj", "{14A3C7BA-DC8E-4ACA-AF1D-1E2E06CF93F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{CEB67859-3073-4FBC-A145-B2B40C712818}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEB67859-3073-4FBC-A145-B2B40C712818}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEB67859-3073-4FBC-A145-B2B40C712818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14A3C7BA-DC8E-4ACA-AF1D-1E2E06CF93F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A3C7BA-DC8E-4ACA-AF1D-1E2E06CF93F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A3C7BA-DC8E-4ACA-AF1D-1E2E06CF93F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A3C7BA-DC8E-4ACA-AF1D-1E2E06CF93F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
