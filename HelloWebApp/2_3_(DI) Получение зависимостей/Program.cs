@@ -24,7 +24,6 @@ app.Run(async context =>
     await context.Response.WriteAsync($"Time: {timeService?.GetTime()}");
 });
 
-
 app.Run();
 
 

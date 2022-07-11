@@ -41,7 +41,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1_Dependency Injection (�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2_(DI) Создание сервисов", "2.1_(DI) Создание сервисов\2.2_(DI) Создание сервисов.csproj", "{F8D802C8-8D5D-4927-9870-40E29039BDFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_3_(DI) Получение зависимостей", "2_3_(DI) Получение зависимостей\2_3_(DI) Получение зависимостей.csproj", "{43334BD1-219A-4259-AD6B-FA8FD6771CB3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.3_(DI) Получение зависимостей", "2_3_(DI) Получение зависимостей\2.3_(DI) Получение зависимостей.csproj", "{43334BD1-219A-4259-AD6B-FA8FD6771CB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.4_(DI) Жизненный цикл зависимостей", "2.4_(DI) Жизненный цикл зависимостей\2.4_(DI) Жизненный цикл зависимостей.csproj", "{FA9754B2-8D00-4500-BB47-5F5BAD92754C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{43334BD1-219A-4259-AD6B-FA8FD6771CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43334BD1-219A-4259-AD6B-FA8FD6771CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43334BD1-219A-4259-AD6B-FA8FD6771CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA9754B2-8D00-4500-BB47-5F5BAD92754C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA9754B2-8D00-4500-BB47-5F5BAD92754C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA9754B2-8D00-4500-BB47-5F5BAD92754C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA9754B2-8D00-4500-BB47-5F5BAD92754C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
