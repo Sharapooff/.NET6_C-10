@@ -63,6 +63,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.5_Сопоставлен�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.1_Статические файлы. Установка каталога статических файлов. UseStaticFiles", "4.1_Статические файлы. Установка каталога статических файлов. UseStaticFiles\4.1_Статические файлы. Установка каталога статических файлов. UseStaticFiles.csproj", "{8E81BBA9-A3DF-42D7-B791-8BEFE085ABF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.2_Работа со статическими файлами", "4.2_Работа со статическими файлами\4.2_Работа со статическими файлами.csproj", "{FEDBD985-86F9-46D4-832F-88D732FF46F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{8E81BBA9-A3DF-42D7-B791-8BEFE085ABF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E81BBA9-A3DF-42D7-B791-8BEFE085ABF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E81BBA9-A3DF-42D7-B791-8BEFE085ABF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEDBD985-86F9-46D4-832F-88D732FF46F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDBD985-86F9-46D4-832F-88D732FF46F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDBD985-86F9-46D4-832F-88D732FF46F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDBD985-86F9-46D4-832F-88D732FF46F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
