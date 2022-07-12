@@ -67,6 +67,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.2_Работа со ст�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.1_Конфигурация. Основы конфигурации.", "5.1_Конфигурация. Основы конфигурации\5.1_Конфигурация. Основы конфигурации..csproj", "{9C3EDFB1-BD11-464E-90A0-6930854C7D09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.2_Нефайловые провайдеры конфигурации", "5.2_Нефайловые провайдеры конфигурации\5.2_Нефайловые провайдеры конфигурации.csproj", "{7AB89E3C-17C9-4FB3-94BF-290CE6DDFB6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{9C3EDFB1-BD11-464E-90A0-6930854C7D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C3EDFB1-BD11-464E-90A0-6930854C7D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C3EDFB1-BD11-464E-90A0-6930854C7D09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB89E3C-17C9-4FB3-94BF-290CE6DDFB6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB89E3C-17C9-4FB3-94BF-290CE6DDFB6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB89E3C-17C9-4FB3-94BF-290CE6DDFB6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB89E3C-17C9-4FB3-94BF-290CE6DDFB6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
