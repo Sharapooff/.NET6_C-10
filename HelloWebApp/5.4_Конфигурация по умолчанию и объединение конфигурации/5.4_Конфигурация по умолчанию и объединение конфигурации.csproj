@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>_5._3_Конфигурация_в_файлах_JSON__XML_и_Ini</RootNamespace>
+    <RootNamespace>_5._4_Конфигурация_по_умолчанию_и_объединение_конфигурации</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
