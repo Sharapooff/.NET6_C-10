@@ -57,6 +57,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2_Параметры ма
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.3_Ограничения маршрутов", "3.3_Ограничения маршрутов\3.3_Ограничения маршрутов.csproj", "{FBD84CDC-5EB5-435F-BA62-2FAACACF3F22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.4_Создание ограничений маршрутов", "3.4_Создание ограничений маршрутов\3.4_Создание ограничений маршрутов.csproj", "{F5273A11-F59D-4BDA-BC98-F7598DA7F8F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.5_Сопоставление запроса с конечной точкой", "3.5_Сопоставление запроса с конечной точкой\3.5_Сопоставление запроса с конечной точкой.csproj", "{A92D4F03-A1D9-498B-BAE5-B8AE33E12183}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +175,14 @@ Global
 		{FBD84CDC-5EB5-435F-BA62-2FAACACF3F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBD84CDC-5EB5-435F-BA62-2FAACACF3F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBD84CDC-5EB5-435F-BA62-2FAACACF3F22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5273A11-F59D-4BDA-BC98-F7598DA7F8F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5273A11-F59D-4BDA-BC98-F7598DA7F8F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5273A11-F59D-4BDA-BC98-F7598DA7F8F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5273A11-F59D-4BDA-BC98-F7598DA7F8F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A92D4F03-A1D9-498B-BAE5-B8AE33E12183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A92D4F03-A1D9-498B-BAE5-B8AE33E12183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A92D4F03-A1D9-498B-BAE5-B8AE33E12183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A92D4F03-A1D9-498B-BAE5-B8AE33E12183}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
