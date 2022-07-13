@@ -87,6 +87,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.2_Фабрика логг
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.3_Конфигурация и фильтрация логгирования", "6.3_Конфигурация и фильтрация логгирования\6.3_Конфигурация и фильтрация логгирования.csproj", "{088BFCF2-C1FA-40DF-BB56-64F4BA39EEA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.4_Создание провайдера логгирования", "6.4_Создание провайдера логгирования\6.4_Создание провайдера логгирования.csproj", "{4D49BC71-72B8-44A2-9782-4922429E2604}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -261,6 +263,10 @@ Global
 		{088BFCF2-C1FA-40DF-BB56-64F4BA39EEA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{088BFCF2-C1FA-40DF-BB56-64F4BA39EEA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{088BFCF2-C1FA-40DF-BB56-64F4BA39EEA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D49BC71-72B8-44A2-9782-4922429E2604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D49BC71-72B8-44A2-9782-4922429E2604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D49BC71-72B8-44A2-9782-4922429E2604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D49BC71-72B8-44A2-9782-4922429E2604}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
