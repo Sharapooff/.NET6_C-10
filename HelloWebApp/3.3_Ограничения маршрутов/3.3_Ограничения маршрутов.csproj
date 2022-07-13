@@ -7,4 +7,8 @@
     <RootNamespace>_3._3_Ограничения_маршрутов</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\3.4_Создание ограничений маршрутов\3.4_Создание ограничений маршрутов.csproj" />
+  </ItemGroup>
+
 </Project>
