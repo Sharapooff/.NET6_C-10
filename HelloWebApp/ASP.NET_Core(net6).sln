@@ -75,6 +75,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.4_Конфигураци�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.5_Анализ конфигурации", "5.5_Анализ конфигурации\5.5_Анализ конфигурации.csproj", "{994E5FBE-50F1-402A-9056-E8724665017F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.6_Создание провайдера конфгурации", "5.6_Создание провайдера конфгурации\5.6_Создание провайдера конфгурации.csproj", "{90EF604C-8972-4753-A6D3-0101D292A3BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +227,10 @@ Global
 		{994E5FBE-50F1-402A-9056-E8724665017F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{994E5FBE-50F1-402A-9056-E8724665017F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{994E5FBE-50F1-402A-9056-E8724665017F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90EF604C-8972-4753-A6D3-0101D292A3BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90EF604C-8972-4753-A6D3-0101D292A3BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90EF604C-8972-4753-A6D3-0101D292A3BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90EF604C-8972-4753-A6D3-0101D292A3BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
