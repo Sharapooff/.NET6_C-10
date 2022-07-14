@@ -1,0 +1,9 @@
+Now listening on: https://localhost:7052
+Now listening on: http://localhost:5052
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\GIT\.NET6_C-10\HelloWebApp\6.4_Создание провайдера логгирования\
+Path: /  Time:8:40:35
+Path: /favicon.ico  Time:8:40:36
+Path: /hello  Time:8:41:01
+Path: /favicon.ico  Time:8:41:01
