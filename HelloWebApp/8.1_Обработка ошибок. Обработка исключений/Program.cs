@@ -79,7 +79,7 @@ app.Run();
 //    await context.Response.WriteAsync($"c = {c}");
 //});
 //app.Run();
-
+// Следует учитывать, что app.UseExceptionHandler() следует помещать ближе к началу конвейера middleware.
 
 
 
