@@ -91,6 +91,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.4_Создание про
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.1_Состояние приложения. Куки. Сессии. HttpContext.Items", "7.1_Состояние приложения. Куки. Сессии. HttpContext.Items\7.1_Состояние приложения. Куки. Сессии. HttpContext.Items.csproj", "{DF7D96D9-4234-453C-9865-66BE0A321F0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.2_Куки (Cookie)", "7.2_Куки (Cookie)\7.2_Куки (Cookie).csproj", "{95E2ADD2-DDE7-4458-ABC6-60AFE564ADF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -273,6 +275,10 @@ Global
 		{DF7D96D9-4234-453C-9865-66BE0A321F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF7D96D9-4234-453C-9865-66BE0A321F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF7D96D9-4234-453C-9865-66BE0A321F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95E2ADD2-DDE7-4458-ABC6-60AFE564ADF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E2ADD2-DDE7-4458-ABC6-60AFE564ADF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E2ADD2-DDE7-4458-ABC6-60AFE564ADF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E2ADD2-DDE7-4458-ABC6-60AFE564ADF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
