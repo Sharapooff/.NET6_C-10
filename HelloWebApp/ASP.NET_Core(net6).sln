@@ -101,6 +101,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.2_Обработка ош
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.1_Results API", "9.1_Results API\9.1_Results API.csproj", "{5482CDD6-16BE-4AA7-B153-67C4A5DDF50E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.2_Отправка текста и json в Results API", "9.2_Отправка текста и json в Results API\9.2_Отправка текста и json в Results API.csproj", "{AAB2F75F-55E4-47D3-A1AA-20123BE72074}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -303,6 +305,10 @@ Global
 		{5482CDD6-16BE-4AA7-B153-67C4A5DDF50E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5482CDD6-16BE-4AA7-B153-67C4A5DDF50E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5482CDD6-16BE-4AA7-B153-67C4A5DDF50E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAB2F75F-55E4-47D3-A1AA-20123BE72074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB2F75F-55E4-47D3-A1AA-20123BE72074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB2F75F-55E4-47D3-A1AA-20123BE72074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB2F75F-55E4-47D3-A1AA-20123BE72074}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
