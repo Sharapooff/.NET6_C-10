@@ -95,9 +95,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.2_Куки (Cookie)", "7.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.3_Сессии", "7.3_Сессии\7.3_Сессии.csproj", "{D6981470-8455-4B2C-BDFA-FB3CFDA40B0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1_Обработка ошибок. Обработка исключений", "8.1_Обработка ошибок. Обработка исключений\8.1_Обработка ошибок. Обработка исключений.csproj", "{07A4BAA4-2789-465A-8EB7-0BCCC844A171}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.1_Обработка ошибок. Обработка исключений", "8.1_Обработка ошибок. Обработка исключений\8.1_Обработка ошибок. Обработка исключений.csproj", "{07A4BAA4-2789-465A-8EB7-0BCCC844A171}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.2_Обработка ошибок HTTP", "8.2_Обработка ошибок HTTP\8.2_Обработка ошибок HTTP.csproj", "{4B37BB8B-4414-49F1-A920-DDD9F7370A39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.2_Обработка ошибок HTTP", "8.2_Обработка ошибок HTTP\8.2_Обработка ошибок HTTP.csproj", "{4B37BB8B-4414-49F1-A920-DDD9F7370A39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.1_Results API", "9.1_Results API\9.1_Results API.csproj", "{5482CDD6-16BE-4AA7-B153-67C4A5DDF50E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -297,6 +299,10 @@ Global
 		{4B37BB8B-4414-49F1-A920-DDD9F7370A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B37BB8B-4414-49F1-A920-DDD9F7370A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B37BB8B-4414-49F1-A920-DDD9F7370A39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5482CDD6-16BE-4AA7-B153-67C4A5DDF50E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5482CDD6-16BE-4AA7-B153-67C4A5DDF50E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5482CDD6-16BE-4AA7-B153-67C4A5DDF50E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5482CDD6-16BE-4AA7-B153-67C4A5DDF50E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
